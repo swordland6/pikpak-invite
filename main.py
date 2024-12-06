@@ -513,7 +513,7 @@ async def invite(access_token, captcha_token, xid):
     url = 'https://api-drive.mypikpak.com/vip/v1/activity/invite'
     body = {
         "apk_extra": {
-            "invite_code": ""
+            "invite_code": "35075098"
         }
     }
     headers = {
